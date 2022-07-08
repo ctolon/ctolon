@@ -39,6 +39,7 @@
 <br/><br/>
 <img align="left" alt="boostrap" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="jquery" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Alice O2" width="50px" src="https://aliceo2group.github.io/images/o2logo.png" style="padding-right:10px;" />
 
 <br/><br/>
 
