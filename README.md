@@ -19,7 +19,9 @@
 <img align="left" alt="LaTeX" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
 
+
 <br/><br/>
+
 
 ### Libraries and Frameworks
 <img align="left" alt="Pandas" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
