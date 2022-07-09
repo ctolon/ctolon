@@ -15,7 +15,6 @@
 <img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MATLAB" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CMake" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" style="padding-right:10px;" />
-<br/><br/>
 <img align="left" alt="Julia" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="LaTeX" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
