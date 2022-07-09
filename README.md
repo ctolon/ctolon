@@ -97,7 +97,6 @@
 <img align="left" alt="Gitlab" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GCC" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Slack" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" style="padding-right:10px;" />
 
 <br/><br/>
