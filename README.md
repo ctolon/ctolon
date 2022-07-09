@@ -22,6 +22,7 @@
 <img align="left" alt="Bash" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
 
 <br/><br/>
+<br/><br/>
 
 ### Libraries and Frameworks
 <img align="left" alt="Pandas" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
